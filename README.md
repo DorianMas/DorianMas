@@ -59,16 +59,6 @@
    ➡️ Link: https://vinted-frontend-dm.netlify.app
 </p>
 <p align="left">
-<h4> - Airbnb : Fullstack web projet</h4>
-<h5><a href="https://github.com/DorianMas/Frontend-Tripadvisor">🔗 Frontend repo</a></h5>
-➡️ Responsive integration of the Tripadvisor presentation page of the city of Marseille    
-  
-  ➡️ Email submit form on login button  
-  ➡️ Link: https://tripadvisor-dm.netlify.app
-<h5><a href="https://github.com/DorianMas/Backend-Tripadvisor">🔗 Backend repo</a></h5>
-➡️ Creation of the API sending email hosted on Heroku and used with Mailgun
-</p>
-<p align="right">
 <h4> - Airbnb: Frontend mobile project</h4>
 <h5><a href="https://github.com/DorianMas/airbnb-app">🔗 Frontend repo</a></h5>
 ➡️ Simplified replica of the Airbnb mobile app  
