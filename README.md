@@ -5,15 +5,16 @@
 </h4>
 
 <h5 align="justify">After five years spent in communication agencies as Project Manager, 2022 marks a turning point in my career with a retraining in web development. I have just completed the <a href="https://www.lereacteur.io/">Reacteur bootcamp</a> during which I have worked on several frontend and fullstack projects. You can find most of them in my Github repositories.</h5>
+ 
+- 🔭 I’m currently working on a MVP with a private repository, available on demand.
 
 - 🌱 I’m learning **Javascript & React**
 
-- 🔭 I’m currently working on a MVP with a private repository, available on demand.
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
 - 📫 How to reach me **dorian.masquelier@gmail.com** - <a href="https://linkedin.com/in/https://www.linkedin.com/in/dorian-masquelier-5b5a498a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dorian-masquelier-5b5a498a/" height="20" width="30" /></a>
 
 
-<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
 <p align="left">
 
@@ -35,5 +36,43 @@
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+
+</p>    
+    
+<h3 align="left">Projects:</h3>
+<p align="left">
+<h4> - Tripadvisor : Fullstack web projet</h4>
+<h5><a href="https://github.com/DorianMas/Frontend-Tripadvisor">🔗 Frontend repo</a></h5>
+➡️ Responsive integration of the Tripadvisor presentation page of the city of Marseille    
+  
+  ➡️ Email submit form on login button  
+  ➡️ Link: https://tripadvisor-dm.netlify.app
+<h5><a href="https://github.com/DorianMas/Backend-Tripadvisor">🔗 Backend repo</a></h5>
+➡️ Creation of the API sending email hosted on Heroku and used with Mailgun
+</p>
+<p align="right">
+<h4> - Vinted: Frontend web project</h4>
+<h5><a href="https://github.com/DorianMas/vinted-frontend">🔗 Frontend repo</a></h5>
+➡️ Simplified replica of the Vinted website (not responsive for now)  
+  
+   ➡️ Simulation of the payment product with Stripe  
+   ➡️ Link: https://vinted-frontend-dm.netlify.app
+</p>
+<p align="left">
+<h4> - Airbnb : Fullstack web projet</h4>
+<h5><a href="https://github.com/DorianMas/Frontend-Tripadvisor">🔗 Frontend repo</a></h5>
+➡️ Responsive integration of the Tripadvisor presentation page of the city of Marseille    
+  
+  ➡️ Email submit form on login button  
+  ➡️ Link: https://tripadvisor-dm.netlify.app
+<h5><a href="https://github.com/DorianMas/Backend-Tripadvisor">🔗 Backend repo</a></h5>
+➡️ Creation of the API sending email hosted on Heroku and used with Mailgun
+</p>
+<p align="right">
+<h4> - Airbnb: Frontend mobile project</h4>
+<h5><a href="https://github.com/DorianMas/airbnb-app">🔗 Frontend repo</a></h5>
+➡️ Simplified replica of the Airbnb mobile app  
+  
+   ➡️ Run with the Expo simulator  
 
 </p>
