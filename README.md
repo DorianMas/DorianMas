@@ -64,3 +64,11 @@
    ➡️ Run with the Expo simulator  
 
 </p>
+<p align="right">
+<h4> - Deliveroo: Frontend project</h4>
+<h5><a href="https://github.com/DorianMas/deliveroo-frontend">🔗 Frontend repo</a></h5>
+➡️ Simplified replica of the system Deliveroo cart (not responsive for now)
+  
+  ➡️ Link: https://deliveroo-cart-dm.netlify.app/
+
+</p>
