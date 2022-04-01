@@ -43,20 +43,18 @@
 <p align="left">
 <h4> - Tripadvisor : Fullstack web projet</h4>
 <h5><a href="https://github.com/DorianMas/Frontend-Tripadvisor">🔗 Frontend repo</a></h5>
-➡️ Responsive integration of the Tripadvisor presentation page of the city of Marseille    
+➡️ Tripadvisor presentation page of Marseille city (full responsive)   
   
-  ➡️ Email submit form on login button  
   ➡️ Link: https://tripadvisor-dm.netlify.app
 <h5><a href="https://github.com/DorianMas/Backend-Tripadvisor">🔗 Backend repo</a></h5>
-➡️ Creation of the API sending email hosted on Heroku and used with Mailgun
+➡️ Creation of an API, hosted on Heroku, sending email with Mailgun
 </p>
 <p align="right">
 <h4> - Vinted: Frontend web project</h4>
 <h5><a href="https://github.com/DorianMas/vinted-frontend">🔗 Frontend repo</a></h5>
-➡️ Simplified replica of the Vinted website (not responsive for now)  
+➡️ Simplified replica of the Vinted website (not responsive for now)
   
-   ➡️ Simulation of the payment product with Stripe  
-   ➡️ Link: https://vinted-frontend-dm.netlify.app
+  ➡️ Link: https://vinted-frontend-dm.netlify.app
 </p>
 <p align="left">
 <h4> - Airbnb: Frontend mobile project</h4>
