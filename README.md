@@ -6,9 +6,7 @@
 
 <h5 align="justify">After five years spent in communication agencies as Project Manager, 2022 marks a turning point in my career with a retraining in web development. I have just completed the <a href="https://www.lereacteur.io/">Reacteur bootcamp</a> during which I have worked on several frontend and fullstack projects. You can find most of them in my Github repositories.</h5>
  
-- 🔭 I’m currently working on a MVP with a private repository, available on demand.
-
-- 🌱 I’m learning **Javascript & React** and discovering TypeScript
+- 🌱 I’m learning **Javascript & React** and discovering TypeScript & Redux
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
