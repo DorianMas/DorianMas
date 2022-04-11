@@ -39,7 +39,16 @@
     
 <h3 align="left">Projects:</h3>
 <p align="left">
-<h4> - Tripadvisor : Fullstack web projet</h4>
+ <h4> - Marvel : Fullstack web project</h4>
+<h5><a href="https://github.com/DorianMas/marvel-frontend">🔗 Frontend repo</a></h5>
+➡️ Marvel Encyclopedia (full responsive)   
+  
+  ➡️ Link: https://marvel-encyclopedia-dm.netlify.app
+<h5><a href="https://github.com/DorianMas/marvel-backend">🔗 Backend repo</a></h5>
+➡️ Server, hosted on Heroku, requesting data from Marvel API and managing a Mongoose database
+</p>
+ 
+<h4> - Tripadvisor : Fullstack web project</h4>
 <h5><a href="https://github.com/DorianMas/Frontend-Tripadvisor">🔗 Frontend repo</a></h5>
 ➡️ Tripadvisor presentation page of Marseille city (full responsive)   
   
